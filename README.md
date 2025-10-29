@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📚 Book Finder — React App
 
 A modern and responsive web application that allows users to search for books using the Open Library API.  
