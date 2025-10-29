@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Book Finder — React App
 
 A modern and responsive web application that allows users to search for books using the Open Library API.  
@@ -65,3 +66,7 @@ npm start
 👤 Developer: Satyam Kumar
 📧 Email:satyamkumar0238@gmail.com
 🌍 Location: India
+=======
+# Book-finder
+You will be able to find the book details as per your input.
+>>>>>>> ea94bf819e9aecaab7311f47cbe694e8ba110a5b
