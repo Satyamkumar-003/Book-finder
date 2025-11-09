@@ -9,8 +9,7 @@ Designed for **Alex (College Student)** who wants a fast and user-friendly way t
 
 ## 🚀 Live Demo
 
-🔗 Deployment Link: *Coming Soon*  
-📌 (Example: CodeSandbox / Netlify link here)
+🔗 Deployment Link: https://easybooksfinder.netlify.app/
 
 ---
 
